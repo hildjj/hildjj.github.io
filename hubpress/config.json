@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "hildjj",
-    "repositoryName": "hildjj.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"hildjj","repositoryName":"hildjj.github.io","branch":"master"},"site":{"title":"hildjj ftw","description":"Notes for myself in public","logo":"eye.jpg","url":"https://hildjj.github.io"},"socialnetwork":{},"theme":{"name":"ghostium","url":"//hildjj.github.io/themes/ghostium"}}
